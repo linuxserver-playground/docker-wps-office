@@ -1,12 +1,11 @@
 NAME                                                                                VERSION                                   TYPE                             
-Bootstrap                                                                           6.12.0                                    UnknownPackage                   
-CMake                                                                               4.4.3                                                                      
-CMake                                                                               4.4.5                                                                      
+Bootstrap                                                                           6.12.1                                    UnknownPackage                   
+CMake                                                                               4.5.1                                                     (+1 duplicate)   
 CMake generator Ninja                                                               1.13.2                                                    (+1 duplicate)   
 CacheControl                                                                        0.14.4                                    python                           
 Compiler GNU                                                                        16.2.1                                                    (+1 duplicate)   
-Concurrent                                                                          6.12.0                                    UnknownPackage                   
-Core                                                                                6.12.0                                    UnknownPackage                   
+Concurrent                                                                          6.12.1                                    UnknownPackage                   
+Core                                                                                6.12.1                                    UnknownPackage                   
 Core_Attribution_0_0                                                                unknown                                   UnknownPackage                   
 Core_Attribution_11_0                                                               unknown                                   UnknownPackage                   
 Core_Attribution_7_0                                                                unknown                                   UnknownPackage                   
@@ -17,46 +16,45 @@ Core_Attribution_md5                                                            
 Core_Attribution_rfc6234                                                            unknown                                   UnknownPackage                   
 Core_Attribution_sha1                                                               unknown                                   UnknownPackage                   
 Core_Attribution_siphash                                                            unknown                                   UnknownPackage                   
-Core_Attribution_tinycbor                                                           7.0                                       UnknownPackage                   
+Core_Attribution_tinycbor                                                           7.1                                       UnknownPackage                   
 Core_Attribution_tlexpected                                                         41d3e1f48d682992a2230b2a715bca38b848b269  UnknownPackage                   
 Cups                                                                                2.4.20                                                                     
-DBus                                                                                6.12.0                                    UnknownPackage                   
+DBus                                                                                6.12.1                                    UnknownPackage                   
 DBus_Attribution_libdbus-1-headers                                                  1.13.12                                   UnknownPackage                   
-DeviceDiscoverySupportPrivate                                                       6.12.0                                    UnknownPackage                   
-DmaBufServerBufferPlugin                                                            6.12.0                                    UnknownPackage                   
-DrmEglServerBufferPlugin                                                            6.12.0                                    UnknownPackage                   
+DeviceDiscoverySupportPrivate                                                       6.12.1                                    UnknownPackage                   
+DmaBufServerBufferPlugin                                                            6.12.1                                    UnknownPackage                   
+DrmEglServerBufferPlugin                                                            6.12.1                                    UnknownPackage                   
 EGL                                                                                 1.5                                                                        
-EglFSDeviceIntegrationPrivate                                                       6.12.0                                    UnknownPackage                   
-EglFsKmsGbmSupportPrivate                                                           6.12.0                                    UnknownPackage                   
-EglFsKmsSupportPrivate                                                              6.12.0                                    UnknownPackage                   
-FbSupportPrivate                                                                    6.12.0                                    UnknownPackage                   
+EglFSDeviceIntegrationPrivate                                                       6.12.1                                    UnknownPackage                   
+EglFsKmsGbmSupportPrivate                                                           6.12.1                                    UnknownPackage                   
+EglFsKmsSupportPrivate                                                              6.12.1                                    UnknownPackage                   
+FbSupportPrivate                                                                    6.12.1                                    UnknownPackage                   
 FreeType                                                                            2.14.3                                    UnknownPackage                   
 FriBiDi                                                                             1.0.17                                    UnknownPackage                   
 GLIB2                                                                               unknown                                                                    
 GSSAPI                                                                              unknown                                                                    
 GTK3                                                                                3.24.52                                                                    
-GlobalConfig                                                                        6.12.0                                    UnknownPackage                   
-GlobalConfigPrivate                                                                 6.12.0                                    UnknownPackage                   
-Gui                                                                                 6.12.0                                    UnknownPackage                   
+GlobalConfig                                                                        6.12.1                                    UnknownPackage                   
+GlobalConfigPrivate                                                                 6.12.1                                    UnknownPackage                   
+Gui                                                                                 6.12.1                                    UnknownPackage                   
 Gui_Attribution_aglfn                                                               1.7                                       UnknownPackage                   
 Gui_Attribution_emoji-segmenter                                                     0.4.0                                     UnknownPackage                   
 Gui_Attribution_grayraster                                                          unknown                                   UnknownPackage                   
 Gui_Attribution_icc-srgb-color-profile                                              unknown                                   UnknownPackage                   
 Gui_Attribution_opengl-es2-headers                                                  Revision 27673                            UnknownPackage                   
 Gui_Attribution_opengl-headers                                                      Revision 27684                            UnknownPackage                   
-Gui_Attribution_pixman                                                              0.17.12                                   UnknownPackage                   
 Gui_Attribution_rhi-miniengine-d3d12-mipmap                                         0aa79bad78992da0b6a8279ddb9002c1753cb849  UnknownPackage                   
 Gui_Attribution_smooth-scaling-algorithm                                            unknown                                   UnknownPackage                   
 Gui_Attribution_vulkan-xml-spec                                                     1.4.308                                   UnknownPackage                   
 Gui_Attribution_vulkanmemoryallocator                                               3.3.0                                     UnknownPackage                   
 Gui_Attribution_webgradients                                                        unknown                                   UnknownPackage                   
 Gui_Attribution_xserverhelper                                                       unknown                                   UnknownPackage                   
-Gui_Attribution_xsvg                                                                unknown                                   UnknownPackage                   
+Gui_Attribution_xsvg                                                                0.2.1                                     UnknownPackage                   
 HarfBuzz                                                                            14.5.0                                    UnknownPackage                   
 ICU                                                                                 78.3                                                                       
-InputSupportPrivate                                                                 6.12.0                                    UnknownPackage                   
+InputSupportPrivate                                                                 6.12.1                                    UnknownPackage                   
 Interbase                                                                           unknown                                                                    
-KmsSupportPrivate                                                                   6.12.0                                    UnknownPackage                   
+KmsSupportPrivate                                                                   6.12.1                                    UnknownPackage                   
 Libb2                                                                               0.98.1                                                                     
 Libdrm                                                                              2.4.134                                                                    
 Libinput                                                                            1.32.0                                                                     
@@ -67,11 +65,11 @@ Linker GNU                                                                      
 Little CMS 2                                                                        2.19.1                                    UnknownPackage                   
 Mtdev                                                                               1.1.7                                                                      
 MySQL                                                                               unknown                                                                    
-Network                                                                             6.12.0                                    UnknownPackage                   
+Network                                                                             6.12.1                                    UnknownPackage                   
 Network_Attribution_0_0                                                             unknown                                   UnknownPackage                   
 ODBC                                                                                unknown                                                                    
-OpenGL                                                                              6.12.0                                    UnknownPackage                   
-OpenGLWidgets                                                                       6.12.0                                    UnknownPackage                   
+OpenGL                                                                              6.12.1                                    UnknownPackage                   
+OpenGLWidgets                                                                       6.12.1                                    UnknownPackage                   
 OpenJPEG                                                                            2.5.4                                     UnknownPackage                   
 PIL._avif                                                                           13.0.0                                    python                           
 PIL._imaging                                                                        13.0.0                                    python                           
@@ -82,85 +80,85 @@ PIL._imagingmorph                                                               
 PIL._imagingtk                                                                      13.0.0                                    python                           
 PIL._webp                                                                           13.0.0                                    python                           
 Pillow                                                                              13.0.0                                    python                           
-Platform                                                                            6.12.0                                    UnknownPackage                   
-PlatformAppInternal                                                                 6.12.0                                    UnknownPackage                   
-PlatformCommonInternal                                                              6.12.0                                    UnknownPackage                   
-PlatformExampleInternal                                                             6.12.0                                    UnknownPackage                   
-PlatformModuleInternal                                                              6.12.0                                    UnknownPackage                   
-PlatformPluginInternal                                                              6.12.0                                    UnknownPackage                   
-PlatformToolInternal                                                                6.12.0                                    UnknownPackage                   
+Platform                                                                            6.12.1                                    UnknownPackage                   
+PlatformAppInternal                                                                 6.12.1                                    UnknownPackage                   
+PlatformCommonInternal                                                              6.12.1                                    UnknownPackage                   
+PlatformExampleInternal                                                             6.12.1                                    UnknownPackage                   
+PlatformModuleInternal                                                              6.12.1                                    UnknownPackage                   
+PlatformPluginInternal                                                              6.12.1                                    UnknownPackage                   
+PlatformToolInternal                                                                6.12.1                                    UnknownPackage                   
 Platform_Attribution_extra-cmake-modules                                            5.84.0                                    UnknownPackage                   
 Platform_Attribution_kwin                                                           5.13.4                                    UnknownPackage                   
-PostgreSQL                                                                          18.6                                                                       
-PrintSupport                                                                        6.12.0                                    UnknownPackage                   
-QComposePlatformInputContextPlugin                                                  6.12.0                                    UnknownPackage                   
-QConnManNetworkInformationPlugin                                                    6.12.0                                    UnknownPackage                   
-QCupsPrinterSupportPlugin                                                           6.12.0                                    UnknownPackage                   
-QEglFSEmulatorIntegrationPlugin                                                     6.12.0                                    UnknownPackage                   
-QEglFSIntegrationPlugin                                                             6.12.0                                    UnknownPackage                   
-QEglFSKmsEglDeviceIntegrationPlugin                                                 6.12.0                                    UnknownPackage                   
-QEglFSKmsGbmIntegrationPlugin                                                       6.12.0                                    UnknownPackage                   
-QEglFSX11IntegrationPlugin                                                          6.12.0                                    UnknownPackage                   
-QEvdevKeyboardPlugin                                                                6.12.0                                    UnknownPackage                   
-QEvdevMousePlugin                                                                   6.12.0                                    UnknownPackage                   
-QEvdevTabletPlugin                                                                  6.12.0                                    UnknownPackage                   
-QEvdevTouchScreenPlugin                                                             6.12.0                                    UnknownPackage                   
-QGifPlugin                                                                          6.12.0                                    UnknownPackage                   
-QGlibNetworkInformationPlugin                                                       6.12.0                                    UnknownPackage                   
-QGtk3ThemePlugin                                                                    6.12.0                                    UnknownPackage                   
-QIBaseDriverPlugin                                                                  6.12.0                                    UnknownPackage                   
-QICOPlugin                                                                          6.12.0                                    UnknownPackage                   
-QIbusPlatformInputContextPlugin                                                     6.12.0                                    UnknownPackage                   
-QJpegPlugin                                                                         6.12.0                                    UnknownPackage                   
-QLibInputPlugin                                                                     6.12.0                                    UnknownPackage                   
-QLinuxFbIntegrationPlugin                                                           6.12.0                                    UnknownPackage                   
-QMYSQLDriverPlugin                                                                  6.12.0                                    UnknownPackage                   
-QMinimalEglIntegrationPlugin                                                        6.12.0                                    UnknownPackage                   
-QMinimalIntegrationPlugin                                                           6.12.0                                    UnknownPackage                   
-QNetworkManagerNetworkInformationPlugin                                             6.12.0                                    UnknownPackage                   
-QODBCDriverPlugin                                                                   6.12.0                                    UnknownPackage                   
-QOffscreenIntegrationPlugin                                                         6.12.0                                    UnknownPackage                   
-QPSQLDriverPlugin                                                                   6.12.0                                    UnknownPackage                   
-QSQLiteDriverPlugin                                                                 6.12.0                                    UnknownPackage                   
-QTlsBackendCertOnlyPlugin                                                           6.12.0                                    UnknownPackage                   
-QTlsBackendOpenSSLPlugin                                                            6.12.0                                    UnknownPackage                   
-QTsLibPlugin                                                                        6.12.0                                    UnknownPackage                   
-QTuioTouchPlugin                                                                    6.12.0                                    UnknownPackage                   
-QVkKhrDisplayIntegrationPlugin                                                      6.12.0                                    UnknownPackage                   
-QVncIntegrationPlugin                                                               6.12.0                                    UnknownPackage                   
-QWaylandBradientDecorationPlugin                                                    6.12.0                                    UnknownPackage                   
-QWaylandEglClientBufferPlugin                                                       6.12.0                                    UnknownPackage                   
-QWaylandFullScreenShellV1IntegrationPlugin                                          6.12.0                                    UnknownPackage                   
+PostgreSQL                                                                          18.7                                                                       
+PrintSupport                                                                        6.12.1                                    UnknownPackage                   
+QComposePlatformInputContextPlugin                                                  6.12.1                                    UnknownPackage                   
+QConnManNetworkInformationPlugin                                                    6.12.1                                    UnknownPackage                   
+QCupsPrinterSupportPlugin                                                           6.12.1                                    UnknownPackage                   
+QEglFSEmulatorIntegrationPlugin                                                     6.12.1                                    UnknownPackage                   
+QEglFSIntegrationPlugin                                                             6.12.1                                    UnknownPackage                   
+QEglFSKmsEglDeviceIntegrationPlugin                                                 6.12.1                                    UnknownPackage                   
+QEglFSKmsGbmIntegrationPlugin                                                       6.12.1                                    UnknownPackage                   
+QEglFSX11IntegrationPlugin                                                          6.12.1                                    UnknownPackage                   
+QEvdevKeyboardPlugin                                                                6.12.1                                    UnknownPackage                   
+QEvdevMousePlugin                                                                   6.12.1                                    UnknownPackage                   
+QEvdevTabletPlugin                                                                  6.12.1                                    UnknownPackage                   
+QEvdevTouchScreenPlugin                                                             6.12.1                                    UnknownPackage                   
+QGifPlugin                                                                          6.12.1                                    UnknownPackage                   
+QGlibNetworkInformationPlugin                                                       6.12.1                                    UnknownPackage                   
+QGtk3ThemePlugin                                                                    6.12.1                                    UnknownPackage                   
+QIBaseDriverPlugin                                                                  6.12.1                                    UnknownPackage                   
+QICOPlugin                                                                          6.12.1                                    UnknownPackage                   
+QIbusPlatformInputContextPlugin                                                     6.12.1                                    UnknownPackage                   
+QJpegPlugin                                                                         6.12.1                                    UnknownPackage                   
+QLibInputPlugin                                                                     6.12.1                                    UnknownPackage                   
+QLinuxFbIntegrationPlugin                                                           6.12.1                                    UnknownPackage                   
+QMYSQLDriverPlugin                                                                  6.12.1                                    UnknownPackage                   
+QMinimalEglIntegrationPlugin                                                        6.12.1                                    UnknownPackage                   
+QMinimalIntegrationPlugin                                                           6.12.1                                    UnknownPackage                   
+QNetworkManagerNetworkInformationPlugin                                             6.12.1                                    UnknownPackage                   
+QODBCDriverPlugin                                                                   6.12.1                                    UnknownPackage                   
+QOffscreenIntegrationPlugin                                                         6.12.1                                    UnknownPackage                   
+QPSQLDriverPlugin                                                                   6.12.1                                    UnknownPackage                   
+QSQLiteDriverPlugin                                                                 6.12.1                                    UnknownPackage                   
+QTlsBackendCertOnlyPlugin                                                           6.12.1                                    UnknownPackage                   
+QTlsBackendOpenSSLPlugin                                                            6.12.1                                    UnknownPackage                   
+QTsLibPlugin                                                                        6.12.1                                    UnknownPackage                   
+QTuioTouchPlugin                                                                    6.12.1                                    UnknownPackage                   
+QVkKhrDisplayIntegrationPlugin                                                      6.12.1                                    UnknownPackage                   
+QVncIntegrationPlugin                                                               6.12.1                                    UnknownPackage                   
+QWaylandBradientDecorationPlugin                                                    6.12.1                                    UnknownPackage                   
+QWaylandEglClientBufferPlugin                                                       6.12.1                                    UnknownPackage                   
+QWaylandFullScreenShellV1IntegrationPlugin                                          6.12.1                                    UnknownPackage                   
 QWaylandFullScreenShellV1IntegrationPlugin_Attribution_wayland-fullscreen-protocol  unstable v1                               UnknownPackage                   
-QWaylandIntegrationPlugin                                                           6.12.0                                    UnknownPackage                   
-QWaylandWlShellIntegrationPlugin                                                    6.12.0                                    UnknownPackage                   
-QWaylandXdgShellIntegrationPlugin                                                   6.12.0                                    UnknownPackage                   
+QWaylandIntegrationPlugin                                                           6.12.1                                    UnknownPackage                   
+QWaylandWlShellIntegrationPlugin                                                    6.12.1                                    UnknownPackage                   
+QWaylandXdgShellIntegrationPlugin                                                   6.12.1                                    UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_wayland-xdg-activation                unstable v1, version 1                    UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_wayland-xdg-decoration-protocol       unstable v1, version 1                    UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_wayland-xdg-shell-protocol            1.18                                      UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_xdg-dialog-v1                         1                                         UnknownPackage                   
 QWaylandXdgShellIntegrationPlugin_Attribution_xdg-foreign-unstable-v2               1                                         UnknownPackage                   
-QXcbEglIntegrationPlugin                                                            6.12.0                                    UnknownPackage                   
-QXcbGlxIntegrationPlugin                                                            6.12.0                                    UnknownPackage                   
-QXcbIntegrationPlugin                                                               6.12.0                                    UnknownPackage                   
-QXdgDesktopPortalThemePlugin                                                        6.12.0                                    UnknownPackage                   
-QtLibraryInfo                                                                       6.12.0                                    UnknownPackage                   
+QXcbEglIntegrationPlugin                                                            6.12.1                                    UnknownPackage                   
+QXcbGlxIntegrationPlugin                                                            6.12.1                                    UnknownPackage                   
+QXcbIntegrationPlugin                                                               6.12.1                                    UnknownPackage                   
+QXdgDesktopPortalThemePlugin                                                        6.12.1                                    UnknownPackage                   
+QtLibraryInfo                                                                       6.12.1                                    UnknownPackage                   
 RenderDoc                                                                           unknown                                                                    
-ShmServerBufferPlugin                                                               6.12.0                                    UnknownPackage                   
+ShmServerBufferPlugin                                                               6.12.1                                    UnknownPackage                   
 Simple Launcher                                                                     1.1.0.14                                  binary          (+5 duplicates)  
-Sql                                                                                 6.12.0                                    UnknownPackage                   
-Test                                                                                6.12.0                                    UnknownPackage                   
-TestInternalsPrivate                                                                6.12.0                                    UnknownPackage                   
+Sql                                                                                 6.12.1                                    UnknownPackage                   
+Test                                                                                6.12.1                                    UnknownPackage                   
+TestInternalsPrivate                                                                6.12.1                                    UnknownPackage                   
 TestInternalsPrivate_Attribution_cmake-runcmake-test-modules                        3.31.5                                    UnknownPackage                   
 Test_Attribution_catch2                                                             2.13.10                                   UnknownPackage                   
 Test_Attribution_cycle                                                              3.3.11                                    UnknownPackage                   
 Test_Attribution_linuxperf                                                          7.0                                       UnknownPackage                   
 Test_Attribution_valgrind                                                           3.25.1                                    UnknownPackage                   
-Translations                                                                        6.12.0                                    UnknownPackage                   
+Translations                                                                        6.12.1                                    UnknownPackage                   
 Tslib                                                                               1.24                                                                       
-VulkanServerBufferPlugin                                                            6.12.0                                    UnknownPackage                   
+VulkanServerBufferPlugin                                                            6.12.1                                    UnknownPackage                   
 Wayland                                                                             1.26.0                                                                     
-WaylandClient                                                                       6.12.0                                    UnknownPackage                   
+WaylandClient                                                                       6.12.1                                    UnknownPackage                   
 WaylandClient_Attribution_fractional-scale-v1                                       1                                         UnknownPackage                   
 WaylandClient_Attribution_wayland-pointer-gestures-protocol                         unstable v1, version 2                    UnknownPackage                   
 WaylandClient_Attribution_wayland-primary-selection-protocol                        1                                         UnknownPackage                   
@@ -174,16 +172,16 @@ WaylandClient_Attribution_wayland-viewporter-protocol                           
 WaylandClient_Attribution_wayland-xdg-output-protocol                               unstable v1, version 3                    UnknownPackage                   
 WaylandClient_Attribution_wayland-xdg-shell-protocol                                1.18                                      UnknownPackage                   
 WaylandClient_Attribution_wlr-data-control-unstable-v1-protocol                     2                                         UnknownPackage                   
-WaylandGlobalPrivate                                                                6.12.0                                    UnknownPackage                   
-Widgets                                                                             6.12.0                                    UnknownPackage                   
-WlShellIntegrationPrivate                                                           6.12.0                                    UnknownPackage                   
+WaylandGlobalPrivate                                                                6.12.1                                    UnknownPackage                   
+Widgets                                                                             6.12.1                                    UnknownPackage                   
+WlShellIntegrationPrivate                                                           6.12.1                                    UnknownPackage                   
 WrapAtomic                                                                          unknown                                                                    
 WrapBacktrace                                                                       unknown                                                                    
 WrapBrotli                                                                          unknown                                                                    
 WrapDBus1                                                                           unknown                                                                    
 WrapFontconfig                                                                      unknown                                                                    
 WrapFreetype                                                                        2.15.0                                                                     
-WrapHarfbuzz                                                                        15.1.0                                                                     
+WrapHarfbuzz                                                                        15.2.0                                                                     
 WrapJpeg                                                                            80                                                                         
 WrapOpenGL                                                                          unknown                                                                    
 WrapOpenSSL                                                                         unknown                                                                    
@@ -201,8 +199,8 @@ X11_XCB                                                                         
 XCB                                                                                 1.17.0                                                                     
 XKB                                                                                 1.13.2                                                                     
 XKB_COMMON_X11                                                                      1.13.2                                                                     
-XcbQpaPrivate                                                                       6.12.0                                    UnknownPackage                   
-Xml                                                                                 6.12.0                                    UnknownPackage                   
+XcbQpaPrivate                                                                       6.12.1                                    UnknownPackage                   
+Xml                                                                                 6.12.1                                    UnknownPackage                   
 abseil-cpp                                                                          20260817.0-2                              alpm                             
 acl                                                                                 2.4.0-1                                   alpm                             
 adwaita-cursors                                                                     51.0-1                                    alpm                             
@@ -216,13 +214,13 @@ aiosignal                                                                       
 alsa-lib                                                                            1.2.16.1-1                                alpm                             
 alsa-topology-conf                                                                  1.2.5.1-4                                 alpm                             
 alsa-ucm-conf                                                                       1.2.16.1-1                                alpm                             
-androiddeployqt                                                                     6.12.0                                    UnknownPackage                   
-androidtestrunner                                                                   6.12.0                                    UnknownPackage                   
+androiddeployqt                                                                     6.12.1                                    UnknownPackage                   
+androidtestrunner                                                                   6.12.1                                    UnknownPackage                   
 annotated-doc                                                                       0.0.7                                     python                           
 annotated-types                                                                     0.8.0                                     python                           
 anyio                                                                               4.16.0                                    python                           
 archlinux-keyring                                                                   20260909-1                                alpm                             
-at-spi2-core                                                                        2.62.1-1                                  alpm                             
+at-spi2-core                                                                        2.62.2-1                                  alpm                             
 attr                                                                                2.6.0-1                                   alpm                             
 attrs                                                                               26.1.0                                    python                           
 audit                                                                               4.2.1-1                                   alpm                             
@@ -247,19 +245,18 @@ catatonit                                                                       
 certifi                                                                             2026.10.19                                python                           
 certifi                                                                             2026.11.20                                python                           
 cffi                                                                                2.1.1                                     python                           
-chromium                                                                            158.0.8127.36-2                           alpm                             
+chromium                                                                            158.0.8127.88-1                           alpm                             
 click                                                                               8.5.1                                     python                           
 cmake                                                                               4.5.1-1                                   alpm                             
-cmake_automoc_parser                                                                6.12.0                                    UnknownPackage                   
+cmake_automoc_parser                                                                6.12.1                                    UnknownPackage                   
 command-line-arguments                                                              UNKNOWN                                   go-module                        
-connectrpc.com/connect                                                              v1.19.1                                   go-module                        
 containerd                                                                          2.4.2-1                                   alpm                             
 coreutils                                                                           9.12-3                                    alpm                             
 cpio                                                                                2.15-3                                    alpm                             
 cppdap                                                                              1.58.0-3                                  alpm                             
 cryptography                                                                        50.0.2                                    python                           
-cryptsetup                                                                          2.8.8-2                                   alpm                             
-cups                                                                                2:2.4.20-1                                alpm                             
+cryptsetup                                                                          2.8.9-1                                   alpm                             
+cups                                                                                2:2.4.20-2                                alpm                             
 cups-filters                                                                        2.0.1-3                                   alpm                             
 curl                                                                                8.23.0-2                                  alpm                             
 cyphar.com/go-pathrs                                                                v0.2.6                                    go-module                        
@@ -280,8 +277,8 @@ diffutils                                                                       
 distlib                                                                             0.4.2                                     python                           
 distro                                                                              1.9.0                                     python                           
 dnspython                                                                           2.9.2                                     python                           
-docker                                                                              1:29.10.0-1                               alpm                             
-docker-compose                                                                      5.8.0-1                                   alpm                             
+docker                                                                              1:29.10.1-1                               alpm                             
+docker-compose                                                                      5.8.1-1                                   alpm                             
 double-conversion                                                                   3.4.0-1                                   alpm                             
 duktape                                                                             2.7.0-7                                   alpm                             
 dunst                                                                               1.13.2-3                                  alpm                             
@@ -302,7 +299,7 @@ filesystem                                                                      
 findutils                                                                           4.11.0-1                                  alpm                             
 flac                                                                                1.5.0-1                                   alpm                             
 flac-libs                                                                           1.3.2-9.el8_8.1                           rpm                              
-flex                                                                                2.7.1-1                                   alpm                             
+flex                                                                                2.7.9-1                                   alpm                             
 fontconfig                                                                          2:2.18.4-1                                alpm                             
 foot                                                                                1.28.0-2                                  alpm                             
 freetype2                                                                           2.15.0-1                                  alpm                             
@@ -313,7 +310,7 @@ fuse-common                                                                     
 fuse-overlayfs                                                                      1.18-1                                    alpm                             
 fuse3                                                                               3.18.3-1                                  alpm                             
 gawk                                                                                5.4.1-1                                   alpm                             
-gbm                                                                                 26.2.6-arch1.1                                                             
+gbm                                                                                 26.3.1-arch1.3                                                             
 gc                                                                                  8.2.12-1                                  alpm                             
 gcc                                                                                 16.2.1+r23+gd564253eb6c8-1                alpm                             
 gcc-libs                                                                            16.2.1+r23+gd564253eb6c8-1                alpm                             
@@ -368,7 +365,7 @@ github.com/containers/ocicrypt                                                  
 github.com/coreos/go-systemd/v22                                                    v22.7.0                                   go-module       (+3 duplicates)  
 github.com/cyphar/filepath-securejoin                                               v0.7.0                                    go-module       (+1 duplicate)   
 github.com/distribution/reference                                                   v0.6.0                                    go-module       (+3 duplicates)  
-github.com/docker/cli                                                               v29.10.0+incompatible                     go-module                        
+github.com/docker/cli                                                               v29.10.1+incompatible                     go-module                        
 github.com/docker/cli-docs-tool                                                     v0.11.0                                   go-module                        
 github.com/docker/cli/cmd/docker                                                    UNKNOWN                                   go-module                        
 github.com/docker/compose/v5                                                        UNKNOWN                                   go-module                        
@@ -377,8 +374,8 @@ github.com/docker/go-connections                                                
 github.com/docker/go-events                                                         v0.1.0                                    go-module                        
 github.com/docker/go-metrics                                                        v0.1.0                                    go-module       (+1 duplicate)   
 github.com/docker/go-units                                                          v0.5.0                                    go-module       (+4 duplicates)  
-github.com/docker/secrets-engine/client                                             v0.2.2                                    go-module                        
-github.com/docker/secrets-engine/x                                                  v0.8.5                                    go-module                        
+github.com/docker/secrets-engine/client                                             v1.0.0                                    go-module                        
+github.com/docker/secrets-engine/secrets                                            v1.0.0                                    go-module                        
 github.com/eiannone/keyboard                                                        v0.0.0-20220611211555-0d226195f203        go-module                        
 github.com/emicklei/go-restful/v3                                                   v3.13.0                                   go-module                        
 github.com/erofs/go-erofs                                                           v0.3.1                                    go-module       (+1 duplicate)   
@@ -404,10 +401,11 @@ github.com/hashicorp/go-version                                                 
 github.com/in-toto/attestation                                                      v1.2.0                                    go-module                        
 github.com/in-toto/in-toto-golang                                                   v0.11.0                                   go-module                        
 github.com/intel/goresctrl                                                          v0.13.0                                   go-module       (+1 duplicate)   
-github.com/klauspost/compress                                                       v1.20.0                                   go-module       (+3 duplicates)  
+github.com/klauspost/compress                                                       v1.20.0                                   go-module       (+2 duplicates)  
+github.com/klauspost/compress                                                       v1.20.5                                   go-module                        
 github.com/knqyf263/go-plugin                                                       v0.9.0                                    go-module                        
 github.com/mattn/go-runewidth                                                       v0.0.31                                   go-module                        
-github.com/mattn/go-shellwords                                                      v1.0.16                                   go-module                        
+github.com/mattn/go-shellwords                                                      v1.0.17                                   go-module                        
 github.com/mdlayher/socket                                                          v0.6.0                                    go-module       (+2 duplicates)  
 github.com/mdlayher/vsock                                                           v1.3.0                                    go-module       (+2 duplicates)  
 github.com/miekg/pkcs11                                                             v1.1.2                                    go-module                        
@@ -476,7 +474,7 @@ github.com/vishvananda/netns                                                    
 github.com/x448/float16                                                             v0.8.4                                    go-module       (+1 duplicate)   
 github.com/xhit/go-str2duration/v2                                                  v2.1.0                                    go-module                        
 glib-networking                                                                     1:2.90.1-1                                alpm                             
-glib2                                                                               2.90.1-1                                  alpm                             
+glib2                                                                               2.90.2-1                                  alpm                             
 glibc                                                                               2.44+r78+gfcfb867c58ab-1                  alpm                             
 glibc-locales                                                                       2.44+r78+gfcfb867c58ab-1                  alpm                             
 glu                                                                                 9.0.3-3                                   alpm                             
@@ -509,7 +507,7 @@ gobject-introspection                                                           
 gobject-introspection-runtime                                                       1.86.0-2                                  alpm                             
 golang.org/x/crypto                                                                 v0.56.0                                   go-module                        
 golang.org/x/crypto                                                                 v0.57.0                                   go-module                        
-golang.org/x/mod                                                                    v0.41.0                                   go-module       (+1 duplicate)   
+golang.org/x/mod                                                                    v0.41.0                                   go-module                        
 golang.org/x/net                                                                    v0.55.0                                   go-module                        
 golang.org/x/net                                                                    v0.58.0                                   go-module       (+3 duplicates)  
 golang.org/x/net                                                                    v0.60.0                                   go-module                        
@@ -532,7 +530,7 @@ gopkg.in/inf.v0                                                                 
 gopkg.in/ini.v1                                                                     v1.67.3                                   go-module                        
 gotest.tools/v3                                                                     v3.5.2                                    go-module                        
 gperftools                                                                          2.19.3-1                                  alpm                             
-gpgme                                                                               2.2.0-1                                   alpm                             
+gpgme                                                                               2.3.1-1                                   alpm                             
 gpgmepp                                                                             2.2.0-1                                   alpm                             
 graphite                                                                            1:1.3.15-1                                alpm                             
 grep                                                                                3.12-2                                    alpm                             
@@ -541,20 +539,20 @@ gsettings-desktop-schemas                                                       
 gsettings-system-schemas                                                            51.0-1                                    alpm                             
 gsm                                                                                 1.0.17-5.el8                              rpm                              
 gtest                                                                               1.18.0-1                                  alpm                             
-gtk-update-icon-cache                                                               1:4.24.1-1                                alpm                             
+gtk-update-icon-cache                                                               1:4.24.2-1                                alpm                             
 gtk3                                                                                1:3.24.52-2                               alpm                             
 guile                                                                               3.0.11-1                                  alpm                             
 gzip                                                                                1.15-1                                    alpm                             
 h11                                                                                 0.16.0                                    python                           
-harfbuzz                                                                            15.1.0-1                                  alpm                             
-harmonydeployqt                                                                     6.12.0                                    UnknownPackage                   
-harmonyostestrunner                                                                 6.12.0                                    UnknownPackage                   
+harfbuzz                                                                            15.2.0-1                                  alpm                             
+harmonydeployqt                                                                     6.12.1                                    UnknownPackage                   
+harmonyostestrunner                                                                 6.12.1                                    UnknownPackage                   
 hicolor-icon-theme                                                                  0.18-1                                    alpm                             
 hidapi                                                                              0.15.0-1                                  alpm                             
 highway                                                                             1.4.0-1                                   alpm                             
 httpcore                                                                            1.0.9                                     python                           
 httptools                                                                           0.9.0                                     python                           
-httpx                                                                               0.28.1                                    python                           
+httpx                                                                               0.29.0                                    python                           
 hwdata                                                                              0.412-1                                   alpm                             
 iana-etc                                                                            20260617-1                                alpm                             
 icu                                                                                 78.3-1                                    alpm                             
@@ -591,7 +589,7 @@ kbd                                                                             
 kernel.org/pub/linux/libs/security/libcap/cap                                       v1.2.78                                   go-module                        
 kernel.org/pub/linux/libs/security/libcap/psx                                       v1.2.78                                   go-module                        
 keyutils                                                                            1.6.3-4                                   alpm                             
-kmod                                                                                34.3-2                                    alpm                             
+kmod                                                                                34.4-1                                    alpm                             
 krb5                                                                                1.22.2-2                                  alpm                             
 l-smash                                                                             2.14.5-4                                  alpm                             
 labwc                                                                               0.20.3-2                                  alpm                             
@@ -620,7 +618,7 @@ libcap                                                                          
 libcap-ng                                                                           0.9.6-1                                   alpm                             
 libcloudproviders                                                                   0.4.2-1                                   alpm                             
 libcolord                                                                           1.4.8-2                                   alpm                             
-libcups                                                                             2:2.4.20-1                                alpm                             
+libcups                                                                             2:2.4.20-2                                alpm                             
 libcupsfilters                                                                      2.2.1.r108.g3bf18925-1                    alpm                             
 libdaemon                                                                           0.14-6                                    alpm                             
 libdatrie                                                                           0.2.14-1                                  alpm                             
@@ -653,7 +651,7 @@ libhwasan                                                                       
 libice                                                                              1.1.2-1                                   alpm                             
 libidn2                                                                             2.3.8-1                                   alpm                             
 libimagequant                                                                       4.4.1                                     UnknownPackage                   
-libinput                                                                            1.32.0-1                                  alpm                             
+libinput                                                                            1.32.0-2                                  alpm                             
 libisl                                                                              0.28-1                                    alpm                             
 libjpeg / libjpeg-turbo                                                             3.2.0                                     UnknownPackage                   
 libjpeg-turbo                                                                       3.2.1-1                                   alpm                             
@@ -692,7 +690,7 @@ libpulse                                                                        
 libquadmath                                                                         16.2.1+r23+gd564253eb6c8-1                alpm                             
 librsvg                                                                             2:2.63.4-1                                alpm                             
 libsasl                                                                             2.1.28-6                                  alpm                             
-libseccomp                                                                          2.6.0-1                                   alpm                             
+libseccomp                                                                          2.6.2-1                                   alpm                             
 libsecret                                                                           0.21.8.2-1                                alpm                             
 libselinux                                                                          2.9-11.el8_10                             rpm                              
 libsfdo                                                                             0.1.4-1                                   alpm                             
@@ -769,7 +767,7 @@ linux-api-headers                                                               
 llvm-libs                                                                           23.1.5-1                                  alpm                             
 lm_sensors                                                                          1:3.6.2-1                                 alpm                             
 lmdb                                                                                0.9.35-1                                  alpm                             
-lua54                                                                               5.4.9-1                                   alpm                             
+lua                                                                                 5.5.1-1                                   alpm                             
 lz4                                                                                 1:1.11.1-1                                alpm                             
 lz4-libs                                                                            1.8.3-5.el8_10                            rpm                              
 lzo                                                                                 2.10-5                                    alpm                             
@@ -777,12 +775,12 @@ m4                                                                              
 mailcap                                                                             2.1.54-3                                  alpm                             
 make                                                                                4.4.1-3                                   alpm                             
 mako                                                                                1.4.3.dev0                                python                           
-markdown                                                                            3.11.3                                    python                           
+markdown                                                                            3.11.4                                    python                           
 markupsafe                                                                          3.0.4                                     python                           
 md4c                                                                                0.6.0-2                                   alpm                             
-mesa                                                                                1:26.3.1-2                                alpm                             
+mesa                                                                                1:26.3.1-3                                alpm                             
 minizip                                                                             1:1.4-1                                   alpm                             
-moc                                                                                 6.12.0                                    UnknownPackage                   
+moc                                                                                 6.12.1                                    UnknownPackage                   
 more-itertools                                                                      11.2.1                                    python                           
 mpdecimal                                                                           4.0.1-3                                   alpm                             
 mpfr                                                                                4.2.2-1                                   alpm                             
@@ -795,7 +793,7 @@ ncurses                                                                         
 nettle                                                                              4.0-1                                     alpm                             
 nftables                                                                            0.1                                       python                           
 nftables                                                                            1:1.1.7-3                                 alpm                             
-nginx                                                                               1.30.7-1                                  alpm                             
+nginx                                                                               1.30.8-1                                  alpm                             
 nginx-mod-fancyindex                                                                0.5.2-1                                   alpm                             
 nginx-mod-fancyindex-debug                                                          0.5.2-1                                   alpm                             
 noto-fonts                                                                          1:2026.11.01-1                            alpm                             
@@ -819,7 +817,7 @@ opus                                                                            
 orc                                                                                 0.4.44-1                                  alpm                             
 p11-kit                                                                             0.26.6-1                                  alpm                             
 packaging                                                                           26.2                                      python                           
-packaging                                                                           26.3                                      python                           
+packaging                                                                           26.4                                      python                           
 pacman                                                                              7.1.0.r9.g54d9411-4                       alpm                             
 pacman-mirrorlist                                                                   20260610-1                                alpm                             
 pam                                                                                 1.7.3-1                                   alpm                             
@@ -831,7 +829,7 @@ pcmflux                                                                         
 pcre2                                                                               10.32-3.el8_6                             rpm                              
 pcre2                                                                               10.49-1                                   alpm                             
 pcsclite                                                                            2.5.4-1                                   alpm                             
-pdfio                                                                               1.6.6-1                                   alpm                             
+pdfio                                                                               1.6.7-1                                   alpm                             
 pelorus                                                                             0.2.3                                     python                           
 perl                                                                                5.44.0-1                                  alpm                             
 pillow                                                                              13.0.0                                    python          (+1 duplicate)   
@@ -842,7 +840,7 @@ pixelflux                                                                       
 pixman                                                                              0.46.4-1                                  alpm                             
 pkgconf                                                                             3.0.11-1                                  alpm                             
 platformdirs                                                                        4.10.0                                    python                           
-platformdirs                                                                        4.14.5                                    python                           
+platformdirs                                                                        4.14.8                                    python          (+1 duplicate)   
 polkit                                                                              128-1                                     alpm                             
 poppler                                                                             26.11.0-1                                 alpm                             
 popt                                                                                1.19-2                                    alpm                             
@@ -862,7 +860,7 @@ pydantic-core                                                                   
 pyee                                                                                16.1.0                                    python                           
 pygments                                                                            2.20.0                                    python                           
 pygobject                                                                           3.58.1                                    python                           
-pylibsrtp                                                                           1.0.0                                     python                           
+pylibsrtp                                                                           1.1.0                                     python                           
 pyopenssl                                                                           26.4.0                                    python                           
 pyproject-hooks                                                                     1.2.0                                     python                           
 python                                                                              3.14.10-1                                 alpm                             
@@ -874,28 +872,28 @@ python-jaraco.context                                                           
 python-jaraco.functools                                                             4.1.0-3                                   alpm                             
 python-jaraco.text                                                                  4.0.0-4                                   alpm                             
 python-mako                                                                         1.4.3-1                                   alpm                             
-python-markdown                                                                     3.11.3-1                                  alpm                             
+python-markdown                                                                     3.11.4-1                                  alpm                             
 python-markupsafe                                                                   3.0.4-1                                   alpm                             
 python-more-itertools                                                               11.2.1-1                                  alpm                             
-python-packaging                                                                    26.3-1                                    alpm                             
-python-platformdirs                                                                 4.14.5-1                                  alpm                             
+python-packaging                                                                    26.4-1                                    alpm                             
+python-platformdirs                                                                 4.14.8-1                                  alpm                             
 python-setuptools                                                                   1:84.2.1-1                                alpm                             
 python-wheel                                                                        0.48.0-1                                  alpm                             
 pythoncapi_compat                                                                   UNKNOWN                                   UnknownPackage                   
 pyyaml                                                                              6.0.4                                     python                           
-qdbuscpp2xml                                                                        6.12.0                                    UnknownPackage                   
-qdbusxml2cpp                                                                        6.12.0                                    UnknownPackage                   
-qlalr                                                                               6.12.0                                    UnknownPackage                   
-qmake                                                                               6.12.0                                    UnknownPackage                   
-qt6-base                                                                            6.12.0-5                                  alpm                             
-qt6-translations                                                                    6.12.0-1                                  alpm                             
-qtbase                                                                              6.12.0+dirty                              UnknownPackage                   
-qtpaths                                                                             6.12.0                                    UnknownPackage                   
-qttranslations                                                                      6.12.0                                    UnknownPackage                   
-qtwaylandscanner                                                                    6.12.0                                    UnknownPackage                   
-qvkgen                                                                              6.12.0                                    UnknownPackage                   
+qdbuscpp2xml                                                                        6.12.1                                    UnknownPackage                   
+qdbusxml2cpp                                                                        6.12.1                                    UnknownPackage                   
+qlalr                                                                               6.12.1                                    UnknownPackage                   
+qmake                                                                               6.12.1                                    UnknownPackage                   
+qt6-base                                                                            6.12.1-1                                  alpm                             
+qt6-translations                                                                    6.12.1-1                                  alpm                             
+qtbase                                                                              6.12.1+dirty                              UnknownPackage                   
+qtpaths                                                                             6.12.1                                    UnknownPackage                   
+qttranslations                                                                      6.12.1                                    UnknownPackage                   
+qtwaylandscanner                                                                    6.12.1                                    UnknownPackage                   
+qvkgen                                                                              6.12.1                                    UnknownPackage                   
 raqm                                                                                0.11.0                                    python                           
-rcc                                                                                 6.12.0                                    UnknownPackage                   
+rcc                                                                                 6.12.1                                    UnknownPackage                   
 readline                                                                            8.3.6-1                                   alpm                             
 requests                                                                            2.34.2                                    python                           
 resolvelib                                                                          1.2.1                                     python                           
@@ -914,7 +912,7 @@ shadow                                                                          
 shared-mime-info                                                                    2.5.1-2                                   alpm                             
 sigs.k8s.io/json                                                                    v0.0.0-20250730193827-2d320260d730        go-module       (+1 duplicate)   
 sigs.k8s.io/yaml                                                                    v1.6.0                                    go-module       (+1 duplicate)   
-simdutf                                                                             9.3.0-1                                   alpm                             
+simdutf                                                                             9.3.3-1                                   alpm                             
 source-highlight                                                                    3.1.9-19                                  alpm                             
 speexdsp                                                                            1.2.1-3                                   alpm                             
 spice                                                                               0.16.0-5                                  alpm                             
@@ -929,11 +927,12 @@ stdlib                                                                          
 stdlib                                                                              go1.27.2-X:nodwarf5                       go-module       (+3 duplicates)  
 stdlib                                                                              go1.27.4-X:nodwarf5                       go-module       (+4 duplicates)  
 sudo                                                                                1.9.17.p2-7                               alpm                             
-syncqt                                                                              6.12.0                                    UnknownPackage                   
+syncqt                                                                              6.12.1                                    UnknownPackage                   
 systemd                                                                             262.2-1                                   alpm                             
 systemd-libs                                                                        239-82.el8_10.19                          rpm                              
 systemd-libs                                                                        262.2-1                                   alpm                             
-tags.cncf.io/container-device-interface                                             v1.1.1                                    go-module       (+2 duplicates)  
+tags.cncf.io/container-device-interface                                             v1.1.1                                    go-module       (+1 duplicate)   
+tags.cncf.io/container-device-interface                                             v1.1.2                                    go-module                        
 tags.cncf.io/container-device-interface/specs-go                                    v1.1.1                                    go-module       (+1 duplicate)   
 tar                                                                                 1.35-5                                    alpm                             
 tdb                                                                                 1.4.15-2                                  alpm                             
@@ -942,16 +941,16 @@ thunar                                                                          
 tinysparql                                                                          3.12.0-1                                  alpm                             
 tomli                                                                               2.4.1                                     python                           
 tomli-w                                                                             1.2.0                                     python                           
-tpm2-tss                                                                            4.2.2s-1                                  alpm                             
-tracegen                                                                            6.12.0                                    UnknownPackage                   
-tracepointgen                                                                       6.12.0                                    UnknownPackage                   
+tpm2-tss                                                                            4.2.2s-2                                  alpm                             
+tracegen                                                                            6.12.1                                    UnknownPackage                   
+tracepointgen                                                                       6.12.1                                    UnknownPackage                   
 truststore                                                                          0.10.4                                    python                           
 tslib                                                                               1.24-1                                    alpm                             
 ttf-liberation                                                                      2.1.5-2                                   alpm                             
 typing-extensions                                                                   4.16.0                                    python                           
 typing-inspection                                                                   0.4.5                                     python                           
 tzdata                                                                              2026f-1                                   alpm                             
-uic                                                                                 6.12.0                                    UnknownPackage                   
+uic                                                                                 6.12.1                                    UnknownPackage                   
 urllib3                                                                             2.7.0                                     python                           
 util-linux                                                                          2.42.4-1                                  alpm                             
 util-linux-libs                                                                     2.42.4-1                                  alpm                             
@@ -959,12 +958,12 @@ uvicorn                                                                         
 uvloop                                                                              0.23.0                                    python                           
 vscode-powerquery                                                                   0.1.62                                    npm             (+1 duplicate)   
 vulkan-icd-loader                                                                   1.4.363.0-1                               alpm                             
-vulkan-intel                                                                        1:26.3.1-2                                alpm                             
-vulkan-mesa-implicit-layers                                                         1:26.3.1-2                                alpm                             
-vulkan-radeon                                                                       1:26.3.1-2                                alpm                             
+vulkan-intel                                                                        1:26.3.1-3                                alpm                             
+vulkan-mesa-implicit-layers                                                         1:26.3.1-3                                alpm                             
+vulkan-radeon                                                                       1:26.3.1-3                                alpm                             
 vulkan-tools                                                                        1.4.363.0-1                               alpm                             
-wasmdeployqt                                                                        6.12.0                                    UnknownPackage                   
-watchdog                                                                            7.1.0                                     python                           
+wasmdeployqt                                                                        6.12.1                                    UnknownPackage                   
+watchdog                                                                            7.1.1                                     python                           
 watchfiles                                                                          1.3.0                                     python                           
 wayland                                                                             1.26.0-1                                  alpm                             
 wayland-protocols                                                                   1.50-1                                    alpm                             
@@ -1030,4 +1029,4 @@ xz-libs                                                                         
 yarl                                                                                1.25.1                                    python                           
 zlib                                                                                1:1.4-1                                   alpm                             
 zlib                                                                                2.3.3                                     UnknownPackage                   
-zstd                                                                                1.5.7-3                                   alpm                             
+zstd                                                                                1.6.0-1                                   alpm                             
